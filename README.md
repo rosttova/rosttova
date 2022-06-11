@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1><div id="header" align="center">
+Welcome To My GitHub Profile! </div>
+ </h1>
 
-<!--
-**rosttova/rosttova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</div>
+<div id="badges">
+  <div id="header" align="center">
+<div id="badges">
+  <a href="https://www.linkedin.com/in/%D0%B0%D0%BD%D0%BD%D0%B0-%D1%81%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B2%D0%B0-b8597723a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a></div></div>
+ 
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+______
+
+Student of Vadim Ksendzov course [ksendzov.com](ksendzov.com)
+ 
+
+### Skills:
+
++ <b> Basic knowledge of testing</b> (Types of testing, Test design techniques, SDLC/ STLC, Test documentation)
++ <b>Terminal Linux</b> [[link]](https://github.com/rosttova/hw-linux)
++ <b>Git/GitHub</b> [[link]](https://github.com/rosttova/hw_git)
++ <b>Client-server architecture</b> [[link]](https://github.com/rosttova/Information/blob/main/клиент-серверная%20архитектура)
+
+_____
+
+<b>Contacts: </b>
+  - annsmrn@mail.ru
+  - Telegram: @rosttova
