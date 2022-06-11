@@ -25,7 +25,7 @@ Student of Vadim Ksendzov course [ksendzov.com](ksendzov.com)
 + <b> Basic knowledge of testing</b> (Types of testing, Test design techniques, SDLC/ STLC, Test documentation)
 + <b>Terminal Linux</b> [[link]](https://github.com/rosttova/hw-linux)
 + <b>Git/GitHub</b> [[link]](https://github.com/rosttova/hw_git)
-+ <b>Client-server architecture</b> [[link]](https://github.com/rosttova/Information/blob/main/клиент-серверная%20архитектура)
++ <b>Client-server architecture</b> [[link]]([https://github.com/rosttova/Information/blob/main/клиент-серверная%20архитектура](https://github.com/rosttova/info/blob/main/README.md))
 
 _____
 
