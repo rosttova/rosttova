@@ -26,6 +26,7 @@ Student of Vadim Ksendzov course [ksendzov.com](ksendzov.com)
 + <b>Terminal Linux</b> [[link]](https://github.com/rosttova/hw-linux)
 + <b>Git/GitHub</b> [[link]](https://github.com/rosttova/hw_git)
 + <b>Client-server architecture</b> [[link]](https://github.com/rosttova/info/blob/main/README.md)
++ <b>Postman</b> [[link]](https://github.com/rosttova/Postman)
 
 _____
 
