@@ -27,6 +27,7 @@ Student of Vadim Ksendzov course [ksendzov.com](ksendzov.com)
 + <b>Git/GitHub</b> [[link]](https://github.com/rosttova/hw_git)
 + <b>Client-server architecture</b> [[link]](https://github.com/rosttova/info/blob/main/README.md)
 + <b>Postman</b> [[link]](https://github.com/rosttova/Postman)
++ <b>JS</b> [[link]](https://github.com/rosttova/JS)
 
 _____
 
