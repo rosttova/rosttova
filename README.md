@@ -32,5 +32,5 @@ Student of Vadim Ksendzov course [ksendzov.com](ksendzov.com)
 _____
 
 <b>Contacts: </b>
-  - annsmrn@mail.ru
+  - rosttovafox@gmail.com
   - Telegram: @rosttova
