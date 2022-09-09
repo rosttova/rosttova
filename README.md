@@ -16,8 +16,6 @@ Welcome To My GitHub Profile! </div>
 
 
 ______
-
-Student of Vadim Ksendzov course [ksendzov.com](ksendzov.com)
  
 
 ### Skills:
@@ -28,6 +26,7 @@ Student of Vadim Ksendzov course [ksendzov.com](ksendzov.com)
 + <b>Client-server architecture</b> [[link]](https://github.com/rosttova/info/blob/main/README.md)
 + <b>Postman</b> [[link]](https://github.com/rosttova/Postman)
 + <b>JS</b> [[link]](https://github.com/rosttova/JS)
++ <b>SQL</b> [[link]](https://github.com/rosttova/SQL)
 
 _____
 
