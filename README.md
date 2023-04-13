@@ -27,6 +27,7 @@ ______
 + <b>Client-server architecture</b> [[link]](https://github.com/rosttova/info/blob/main/README.md)
 + <b>Postman</b> [[link]](https://github.com/rosttova/Postman)
 + <b>JS</b> [[link]](https://github.com/rosttova/JS)
++ <b>Cypress</b> [[link]](https://github.com/rosttova/Cypress)
 + <b>SQL</b> [[link]](https://github.com/rosttova/SQL)
 
 _____
