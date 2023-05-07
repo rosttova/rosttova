@@ -21,7 +21,6 @@ ______
 
 ### Skills:
 
-+ <b> Basic knowledge of testing</b> (Types of testing, Test design techniques, SDLC/ STLC, Test documentation)
 + <b>Git/GitHub</b> [[link]](https://github.com/rosttova/hw_git)
 + <b>Postman</b> [[link]](https://github.com/rosttova/Postman)
 + <b>JS</b> [[link]](https://github.com/rosttova/JS)
