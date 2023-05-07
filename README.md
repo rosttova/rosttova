@@ -21,7 +21,6 @@ ______
 
 ### Skills:
 
-+ <b>Git/GitHub</b> [[link]](https://github.com/rosttova/hw_git)
 + <b>Postman</b> [[link]](https://github.com/rosttova/Postman)
 + <b>JS</b> [[link]](https://github.com/rosttova/JS)
 + <b>Cypress</b> [[link]](https://github.com/rosttova/Cypress)
