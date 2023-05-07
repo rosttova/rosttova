@@ -22,9 +22,7 @@ ______
 ### Skills:
 
 + <b> Basic knowledge of testing</b> (Types of testing, Test design techniques, SDLC/ STLC, Test documentation)
-+ <b>Terminal Linux</b> [[link]](https://github.com/rosttova/hw-linux)
 + <b>Git/GitHub</b> [[link]](https://github.com/rosttova/hw_git)
-+ <b>Client-server architecture</b> [[link]](https://github.com/rosttova/info/blob/main/README.md)
 + <b>Postman</b> [[link]](https://github.com/rosttova/Postman)
 + <b>JS</b> [[link]](https://github.com/rosttova/JS)
 + <b>Cypress</b> [[link]](https://github.com/rosttova/Cypress)
