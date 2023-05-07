@@ -25,9 +25,3 @@ ______
 + <b>JS</b> [[link]](https://github.com/rosttova/JS)
 + <b>Cypress</b> [[link]](https://github.com/rosttova/Cypress)
 + <b>SQL</b> [[link]](https://github.com/rosttova/SQL)
-
-_____
-
-<b>Contacts: </b>
-  - rosttovafox@gmail.com
-  - Telegram: @rosttova
